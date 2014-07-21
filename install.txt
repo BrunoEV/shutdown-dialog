@@ -1,0 +1,12 @@
+Ubuntu
+	#apt-get install python-qt4 xcompmgr
+
+Debian
+	su root
+	#apt-get install python-qt4 xcompmgr
+
+Arch: 
+	#pacman -S pyqt xcompmgr
+
+Run
+	$python /home/your-user/shutdown-deb.py
